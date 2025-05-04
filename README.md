@@ -1,1 +1,3 @@
-![mode](mode.gif)
+<div style="text-align: center;">
+  <img src="mode.gif" alt="mode">
+</div>
