@@ -5,7 +5,7 @@
 
 ### 🔧 My Tools & Projects
 
-- [🔍 SearchToolkit](https://github.com/l0n3m4n/SearchToolkit) ![GitHub Stars](https://img.shields.io/github/stars/l0n3m4n/SearchToolkit?style=social) ![GitHub Forks](https://img.shields.io/github/forks/l0n3m4n/SearchToolkit?style=social)    • [🧬 bin2shell](https://github.com/l0n3m4n/bin2shell) ![GitHub Stars](https://img.shields.io/github/stars/l0n3m4n/bin2shell?style=social) ![GitHub Forks](https://img.shields.io/github/forks/l0n3m4n/bin2shell?style=social)
+- [🔍 SearchToolkit](https://github.com/l0n3m4n/SearchToolkit) ![GitHub Stars](https://img.shields.io/github/stars/l0n3m4n/SearchToolkit?style=social) ![GitHub Forks](https://img.shields.io/github/forks/l0n3m4n/SearchToolkit?style=social)    ⚪ [🧬 bin2shell](https://github.com/l0n3m4n/bin2shell) ![GitHub Stars](https://img.shields.io/github/stars/l0n3m4n/bin2shell?style=social) ![GitHub Forks](https://img.shields.io/github/forks/l0n3m4n/bin2shell?style=social)
 
 - [🛠️ CVE-2024-22274-RCE](https://github.com/l0n3m4n/CVE-2024-22274-RCE) ![GitHub Stars](https://img.shields.io/github/stars/l0n3m4n/CVE-2024-22274-RCE?style=social) ![GitHub Forks](https://img.shields.io/github/forks/l0n3m4n/CVE-2024-22274-RCE?style=social)
   
